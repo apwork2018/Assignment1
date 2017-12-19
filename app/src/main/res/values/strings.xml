@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="str_login">GOOGLE SIGN IN</string>
+    <string name="str_hello">WELCOME </string>
+    <string name="str_getplaces">SHOW NEARBY PLACES</string>
+    <string name="str_loginsuccess">AUTHENTICATION SUCCESSFUL! : \n</string>
+    <string name="str_loginfail">AUTHENTICATION FAIL!</string>
+    <string name="google_api_key_places">AIzaSyCXSoD9L8Gd5WF24nAo5KRMkyf3imGP_Ck</string>
+</resources>
